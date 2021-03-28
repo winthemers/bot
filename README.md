@@ -1,0 +1,2 @@
+# bot
+winthemers discord bot
