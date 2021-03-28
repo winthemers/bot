@@ -1,0 +1,16 @@
+{
+    "statusMessageID": {
+        "name": "ID da mensagem de status",
+        "value" : []
+    },
+    "ignoredCategories": {
+        "name": "Lista de categorias ignoradas",
+        "value" : []
+    },
+    "ignoredRooms": {
+        "name": "Lista de canais ignorados",
+        "value" : []
+    },
+    "openTime": "30 18 * * 1-6",
+    "closeTime": "08 08 * * 1-5"
+}

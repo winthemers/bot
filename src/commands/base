@@ -1,0 +1,18 @@
+const { i18n } = require("../i18n/i18n.js");
+
+module.exports = {
+    run : async (client, message, args, utils) => {
+
+    },
+
+
+
+    name: i18n("command..name"),
+    description: i18n("command..description"),
+    aliases: i18n("command..aliases"),
+    usage: i18n("command..usage"),
+    devOnly: false,
+    permission: '',
+    cooldown: 10,
+    args: false
+}
